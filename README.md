@@ -1,2 +1,8 @@
-# skel
-Skeleton python script with multiple variants
+# A Skeleton Python Script
+
+A skeleton Python script with multiple variants
+
+
+* Basic (has Enum for adding Modes)
+
+
